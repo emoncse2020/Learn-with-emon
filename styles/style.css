@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-caption {
+    top: 25%;
+}
+
+.carousel-heading {
+    font: size 65px;
+    font-weight: bolder;
+}
